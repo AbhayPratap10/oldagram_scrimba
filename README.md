@@ -2,7 +2,7 @@
 
 Oldagram is a mockup of a social media platform's user interface. It's designed to showcase posts and user profiles.
 
-![Oldagram Screenshot](screenshot.png)
+![Oldagram Screenshot](images/Screenshot.png)
 
 ## Table of Contents
 
