@@ -1,21 +1,77 @@
-# co2274297820a9405442e3a2a
+# Oldagram
 
-Quick start:
+Oldagram is a mockup of a social media platform's user interface. It's designed to showcase posts and user profiles.
 
-```
-$ npm install
-$ npm start
-````
+![Oldagram Screenshot](images/Screenshot.png)
 
-Head over to https://vitejs.dev/ to learn more about using vite
-## About Scrimba
+## Table of Contents
 
-At Scrimba our goal is to create the best possible coding school at the cost of a gym membership! 💜
-If we succeed with this, it will give anyone who wants to become a software developer a realistic shot at succeeding, regardless of where they live and the size of their wallets 🎉
-The Frontend Developer Career Path aims to teach you everything you need to become a Junior Developer, or you could take a deep-dive with one of our advanced courses 🚀
+- [About](#about)
+- [Getting Started](#getting-started)
+- [Usage](#usage)
+- [Contributing](#contributing)
+- [License](#license)
 
-- [Our courses](https://scrimba.com/allcourses)
-- [The Frontend Career Path](https://scrimba.com/learn/frontend)
-- [Become a Scrimba Pro member](https://scrimba.com/pricing)
+## About
 
-Happy Coding!
+Oldagram provides a basic user interface for a social media platform. It features user profiles with avatars, posts with images, and interactions such as likes and comments.
+
+## Getting Started
+
+To get a copy of the project up and running on your local machine, follow these steps:
+
+### Prerequisites
+
+You need a web browser to view the project.
+
+### Installation
+
+1. Clone the repository:
+
+   ```shell
+   git clone https://github.com/yourusername/oldagram.git
+
+Thank you for providing the additional CSS code. Here's an updated README.md template that includes both your HTML and CSS:
+
+```markdown
+# Oldagram
+
+Oldagram is a mockup of a social media platform's user interface. It's designed to showcase posts and user profiles.
+
+![Oldagram Screenshot](screenshot.png)
+
+## Table of Contents
+
+- [About](#about)
+- [Prerquisites] (#Prerquisites)
+- [Installation] (#installation)
+- [Contributing](#contributing)
+
+## About
+
+Oldagram provides a basic user interface for a social media platform. It features user profiles with avatars, posts with images, and interactions such as likes and comments.
+
+### Prerequisites
+
+You need a web browser to view the project.
+
+### Installation
+
+1. Clone the repository:
+
+   ```shell
+   git clone https://github.com/yourusername/oldagram.git
+   ```
+
+2. Navigate to the project directory:
+
+   ```shell
+   cd oldagram
+   ```
+
+3. Open `index.html` in your web browser.
+
+
+## Contributing
+
+Contributions are not currently accepted for this project as it serves as a static mockup.
